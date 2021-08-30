@@ -1,9 +1,7 @@
 body{
     background-image: url('https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2017/06/the_future_of_the_orion_constellation/16980810-1-eng-GB/The_future_of_the_Orion_constellation_pillars.jpg');
 }
-#namee{
-    text-shadow: none;
-}
+
 .display-1 {
     /* font-size: 80px; */
     color: white;
@@ -94,20 +92,7 @@ p strong {
   .bottom{
       margin-top: 50px !important;
   }
-  .education li{
-      font-size: 40px;
-      color:C;
-      margin-top: 15px;
-      color: rgb(173,190,214);
-  }
-  .education strong{
-      color: rgb(218, 166, 166) !important;
-      margin-top: 7px;
-  }
-  .education p{
-      color:white;
-      margin-top: 5px;
-  }
+  
   .carimg{
       /* border-radius: 50%; */
       /* width:400px !important; */
@@ -205,24 +190,10 @@ button{
   }
 label{
     font-family: 'Cinzel', serif;
-    /* font-family: 'Gentium Basic, cursive' */
-    /* font-family:'Nanum Myeongjo', serif
-     ; */
     
 }
-#sphead{
-    font-size: 3vw;
-    font-weight: 700;
-    color: rgb(0, 0, 0);
 
-}
-#sportspara{
-    font-size: 2vw;
-    font-family: 'Nanum Myeongjo', serif;
-    color:#8ea0b9 !important;
-    font-weight: 900;
 
-}
 
 @media screen and (max-width:576px){
 
